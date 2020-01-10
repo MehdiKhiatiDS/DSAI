@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6dd67adfaaef28ceda4ff96b49f769a3d46eaa319acf900027ea29764434f28c"
+            "sha256": "c1d64439e8622c1ca506d61e55bc8f91103fc8e1cdb6d721da601c32c614e442"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -42,6 +42,13 @@
                 "sha256:d3434a070ac3005d61652f2069a50bae47cfe28f49b226e8bb66d7f3f256562b"
             ],
             "version": "==1.6.0"
+        },
+        "dash-daq": {
+            "hashes": [
+                "sha256:98ffce2946374140b630e9659f50262512a9f7adfa6ab22a88dac301d0b49208"
+            ],
+            "index": "pypi",
+            "version": "==0.3.1"
         },
         "dash-html-components": {
             "hashes": [
@@ -101,6 +108,14 @@
                 "sha256:9fe95f19286cfefaa917656583d020be14e7859c6b0252588391e47db34527de"
             ],
             "version": "==2.10.3"
+        },
+        "joblib": {
+            "hashes": [
+                "sha256:0630eea4f5664c463f23fbf5dcfc54a2bc6168902719fa8e19daf033022786c8",
+                "sha256:bdb4fd9b72915ffb49fde2229ce482dd7ae79d842ed8c2b4c932441495af1403"
+            ],
+            "index": "pypi",
+            "version": "==0.14.1"
         },
         "markupsafe": {
             "hashes": [
